@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dung\\source\\repos\\\u0110\u00E1nh gi\u00E1 h\u1EA1ng h\u1ECDc sinh d\u1EF1a v\u00E0o \u0111i\u1EC3m s\u1ED1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{259357E4-7FA5-42CA-B044-BD340354F7D3}|\u0110\u00E1nh gi\u00E1 h\u1EA1ng h\u1ECDc sinh d\u1EF1a v\u00E0o \u0111i\u1EC3m s\u1ED1.vcxproj|C:\\Users\\dung\\source\\repos\\\u0110\u00E1nh gi\u00E1 h\u1EA1ng h\u1ECDc sinh d\u1EF1a v\u00E0o \u0111i\u1EC3m s\u1ED1\\\u0110\u00E1nh gi\u00E1 h\u1EA1ng h\u1ECDc sinh d\u1EF1a v\u00E0o \u0111i\u1EC3m s\u1ED1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{259357E4-7FA5-42CA-B044-BD340354F7D3}|\u0110\u00E1nh gi\u00E1 h\u1EA1ng h\u1ECDc sinh d\u1EF1a v\u00E0o \u0111i\u1EC3m s\u1ED1.vcxproj|solutionrelative:\u0110\u00E1nh gi\u00E1 h\u1EA1ng h\u1ECDc sinh d\u1EF1a v\u00E0o \u0111i\u1EC3m s\u1ED1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u0110\u00E1nh gi\u00E1 h\u1EA1ng h\u1ECDc sinh d\u1EF1a v\u00E0o \u0111i\u1EC3m s\u1ED1.cpp",
+              "DocumentMoniker": "C:\\Users\\dung\\source\\repos\\\u0110\u00E1nh gi\u00E1 h\u1EA1ng h\u1ECDc sinh d\u1EF1a v\u00E0o \u0111i\u1EC3m s\u1ED1\\\u0110\u00E1nh gi\u00E1 h\u1EA1ng h\u1ECDc sinh d\u1EF1a v\u00E0o \u0111i\u1EC3m s\u1ED1.cpp",
+              "RelativeDocumentMoniker": "\u0110\u00E1nh gi\u00E1 h\u1EA1ng h\u1ECDc sinh d\u1EF1a v\u00E0o \u0111i\u1EC3m s\u1ED1.cpp",
+              "ToolTip": "C:\\Users\\dung\\source\\repos\\\u0110\u00E1nh gi\u00E1 h\u1EA1ng h\u1ECDc sinh d\u1EF1a v\u00E0o \u0111i\u1EC3m s\u1ED1\\\u0110\u00E1nh gi\u00E1 h\u1EA1ng h\u1ECDc sinh d\u1EF1a v\u00E0o \u0111i\u1EC3m s\u1ED1.cpp",
+              "RelativeToolTip": "\u0110\u00E1nh gi\u00E1 h\u1EA1ng h\u1ECDc sinh d\u1EF1a v\u00E0o \u0111i\u1EC3m s\u1ED1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-13T00:30:06.072Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

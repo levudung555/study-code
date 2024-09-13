@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c\u002B\u002B\\giaiptbac2\\ConsoleApplication3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55D3008B-9B57-4B05-91DE-0D2041CE2420}|ConsoleApplication3.vcxproj|D:\\c\u002B\u002B\\giaiptbac2\\ConsoleApplication3\\ConsoleApplication3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{55D3008B-9B57-4B05-91DE-0D2041CE2420}|ConsoleApplication3.vcxproj|solutionrelative:ConsoleApplication3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 281,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleApplication3.cpp",
+              "DocumentMoniker": "D:\\c\u002B\u002B\\giaiptbac2\\ConsoleApplication3\\ConsoleApplication3.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication3.cpp",
+              "ToolTip": "D:\\c\u002B\u002B\\giaiptbac2\\ConsoleApplication3\\ConsoleApplication3.cpp",
+              "RelativeToolTip": "ConsoleApplication3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-12T13:08:04.449Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
