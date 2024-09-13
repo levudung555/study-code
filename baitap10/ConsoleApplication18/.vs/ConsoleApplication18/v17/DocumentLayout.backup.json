@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c\u002B\u002B\\baitap10\\ConsoleApplication18\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8248F5-01F1-4368-B6B0-9EB08654ED8E}|ConsoleApplication18\\ConsoleApplication18.vcxproj|D:\\c\u002B\u002B\\baitap10\\ConsoleApplication18\\ConsoleApplication18\\ConsoleApplication18.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C8248F5-01F1-4368-B6B0-9EB08654ED8E}|ConsoleApplication18\\ConsoleApplication18.vcxproj|solutionrelative:ConsoleApplication18\\ConsoleApplication18.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 137,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleApplication18.cpp",
+              "DocumentMoniker": "D:\\c\u002B\u002B\\baitap10\\ConsoleApplication18\\ConsoleApplication18\\ConsoleApplication18.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication18\\ConsoleApplication18.cpp",
+              "ToolTip": "D:\\c\u002B\u002B\\baitap10\\ConsoleApplication18\\ConsoleApplication18\\ConsoleApplication18.cpp",
+              "RelativeToolTip": "ConsoleApplication18\\ConsoleApplication18.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-13T14:04:34.079Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
