@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dung\\source\\repos\\ConsoleApplication29\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2635BEBA-C0F2-41E1-842E-8C18B9B821AA}|ConsoleApplication29\\ConsoleApplication29.vcxproj|C:\\Users\\dung\\source\\repos\\ConsoleApplication29\\ConsoleApplication29\\ConsoleApplication29.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2635BEBA-C0F2-41E1-842E-8C18B9B821AA}|ConsoleApplication29\\ConsoleApplication29.vcxproj|solutionrelative:ConsoleApplication29\\ConsoleApplication29.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleApplication29.cpp",
+              "DocumentMoniker": "C:\\Users\\dung\\source\\repos\\ConsoleApplication29\\ConsoleApplication29\\ConsoleApplication29.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication29\\ConsoleApplication29.cpp",
+              "ToolTip": "C:\\Users\\dung\\source\\repos\\ConsoleApplication29\\ConsoleApplication29\\ConsoleApplication29.cpp",
+              "RelativeToolTip": "ConsoleApplication29\\ConsoleApplication29.cpp",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvwkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-14T07:46:41.874Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
