@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dung\\source\\repos\\ConsoleApplication38\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D2D4D3-E710-405D-B244-A6FD927642A8}|ConsoleApplication38\\ConsoleApplication38.vcxproj|C:\\Users\\dung\\source\\repos\\ConsoleApplication38\\ConsoleApplication38\\ConsoleApplication38.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C9D2D4D3-E710-405D-B244-A6FD927642A8}|ConsoleApplication38\\ConsoleApplication38.vcxproj|solutionrelative:ConsoleApplication38\\ConsoleApplication38.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleApplication38.cpp",
+              "DocumentMoniker": "C:\\Users\\dung\\source\\repos\\ConsoleApplication38\\ConsoleApplication38\\ConsoleApplication38.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication38\\ConsoleApplication38.cpp",
+              "ToolTip": "C:\\Users\\dung\\source\\repos\\ConsoleApplication38\\ConsoleApplication38\\ConsoleApplication38.cpp",
+              "RelativeToolTip": "ConsoleApplication38\\ConsoleApplication38.cpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-15T10:20:58.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
